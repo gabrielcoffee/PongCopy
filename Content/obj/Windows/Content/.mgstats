@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Gabriel Fernandes/source/repos/Pong/Pong/Content/font.spritefont","C:/Users/Gabriel Fernandes/source/repos/Pong/Pong/Content/bin/Windows/Content/font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,267281,0.3891583
+"C:/Users/Gabriel Fernandes/source/repos/Pong/Pong/Content/pongSound.mp3","C:/Users/Gabriel Fernandes/source/repos/Pong/Pong/Content/bin/Windows/Content/pongSound.xnb","SoundEffectProcessor","SoundEffectContent",1798,14117,0.2510667
